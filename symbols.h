@@ -1,0 +1,5 @@
+#define SYMBOL_INTEGER 1
+#define SYMBOL_REAL 2
+#define SYMBOL_CHAR 3
+#define SYMBOL_STRING 4
+#define SYMBOL_IDENTIFIER 5
